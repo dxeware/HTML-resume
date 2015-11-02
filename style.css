@@ -1,0 +1,71 @@
+body {
+  margin: 1em 4em;
+}
+
+header {
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 0.75em;
+}
+
+address > p {
+  margin: 0.1em auto;
+}
+
+.summary {
+  text-align: justify;
+  border-style: solid none;
+}
+
+.summary-text {
+
+  font-size: 18px;
+}
+
+.skills {
+  text-align: left;
+  margin: 0.5em 5%;
+}
+
+.skills th {
+  width: 10em;
+}
+
+li {
+  margin: auto 1em;
+}
+
+.experience, .education {
+  text-align: left;
+  border-top-style: solid;
+}
+
+.jobs {
+  margin: 0 2em;
+}
+
+.company .col-1 {
+  width: 77%;
+}
+
+.company {
+  font-size: 17px;
+}
+
+.education h4 {
+  margin: 1em 1em;
+}
+.education h5 {
+  margin: 1em 2em;
+}
+
+footer {
+  text-align: center;
+  border-style: solid none;
+}
+
+.icon {
+  height: 40px;
+  width: 40px;
+  margin: 0 6px;
+}
