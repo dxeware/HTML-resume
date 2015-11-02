@@ -40,6 +40,10 @@ li {
   border-top-style: solid;
 }
 
+h3 {
+  font-variant: small-caps;
+}
+
 .jobs {
   margin: 0 2em;
 }
